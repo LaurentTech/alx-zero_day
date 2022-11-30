@@ -1,12 +1,1 @@
-git init
-git add .
-git status
-git push
-git commit -m
-git push --set-upstream
-git checkout
-git branch
-git log
-git config --global user.email
-git config --global user.name
-git clone
+git pull
